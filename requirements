@@ -1,0 +1,12 @@
+Modules/Packages/Libraries Required are:-
+
+re
+nltk
+numpy
+pandas
+string
+matplotlib.pyplot
+nltk.tokenize.word_tokenize 
+nltk.corpus.stopwords
+nltk.stem.WordNetLemmatizer
+nltk.sentiment.vader.SentimentIntensityAnalyzer
